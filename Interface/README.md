@@ -1,3 +1,6 @@
+# RealTime sensing
+Repositorio del proyecto final. Equipo 9-Emily Laurian
+
 # Interfaz Serial ESP32 — Visualización de ADC en Tiempo Real
 
 Este proyecto contiene el firmware para ESP32 y un script de Python que
